@@ -1,7 +1,6 @@
 package com.educancoweb.CursoNelioAlves.services;
 
 import com.educancoweb.CursoNelioAlves.entities.Order;
-import com.educancoweb.CursoNelioAlves.entities.User;
 import com.educancoweb.CursoNelioAlves.repositories.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
